@@ -1,1 +1,3 @@
-# arilychan.github.io
+# 小阿日
+
+这里是小阿日的临时主页
