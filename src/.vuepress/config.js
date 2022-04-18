@@ -21,7 +21,7 @@ module.exports = {
   themeConfig: {
     logo: '/images/logo.png',
     docsDir: 'src',
-    repo: 'https://github.com/arilychan/',
+    repo: 'https://github.com/arilychan/arilychan.github.io',
     locales: {
       '/': {
         // page meta

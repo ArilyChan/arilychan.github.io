@@ -2,6 +2,8 @@
 
 小阿日的说明文档
 
+[github page](https://arilychan.github.io)
+
 Create with VuePress v2.0
 
 ## 注意

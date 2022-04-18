@@ -1,12 +1,12 @@
 {
   "name": "arilychan-doc",
   "version": "1.0.0",
-  "description": "",
+  "description": "arilychan manual",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
-  "author": "",
+  "author": "arilychan",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
