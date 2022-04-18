@@ -15,13 +15,13 @@
 
 > 飞升了！（指手指）
 
-> 指令前缀有两种：
-> * `!!` 或 `?` ： bancho服
-> * `*` ： ppysb服
+指令前缀有两种：
+* `!!` 或 `?` ： bancho服
+* `*` ： ppysb服
 
 ### bancho服
 
-> 可用的mode：`osu` `taiko` `fruit` `mania`
+可用的mode：`osu` `taiko` `fruit` `mania`
 
 | 指令 | 示例 | 描述 |
 | ------------- | ------------- | ------------- |
@@ -38,7 +38,7 @@
 
 ### ppysb服
 
-> 可用的mode：`osu` `osuRX` `osuAP` `taiko` `taikoRX` `fruit` `fruitRX` `mania`
+可用的mode：`osu` `osuRX` `osuAP` `taiko` `taikoRX` `fruit` `fruitRX` `mania`
 
 | 指令 | 示例 | 描述 |
 | ------------- | ------------- | ------------- |
