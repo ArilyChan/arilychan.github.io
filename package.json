@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "docs:dev": "vuepress dev src",
-    "docs:build": "vuepress build src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "@vuepress/plugin-git": "^2.0.0-beta.38",
     "vuepress": "^2.0.0-beta.39"
   }
 }

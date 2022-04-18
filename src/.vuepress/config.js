@@ -22,6 +22,26 @@ module.exports = {
     logo: '/images/logo.png',
     docsDir: 'src',
     repo: 'https://github.com/arilychan/',
+    locales: {
+      '/': {
+        // page meta
+        editLinkText: '在 GitHub 上编辑此页',
+        lastUpdatedText: '上次更新',
+        contributorsText: '贡献者',
+        // 404 page
+        notFound: [
+          '小阿日没有找到你要的东西',
+          '这种事情小阿日不懂啦',
+          '这是小阿日的秘密',
+          '小阿日走丢了，快帮我找找',
+        ],
+        backToHome: '返回首页',
+        // a11y
+        openInNewWindow: '在新窗口打开',
+        toggleDarkMode: '切换夜间模式',
+        toggleSidebar: '切换侧边栏',
+      },
+    },
     navbar: [
       { text: '首页', link: '/' },
       /*
@@ -41,7 +61,7 @@ module.exports = {
       {
         text: '指令',
         link: '/guide',
-        children:[
+        children: [
           '/guide/osu.md',
           '/guide/chat.md',
         ],
