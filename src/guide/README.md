@@ -8,10 +8,14 @@
 
 包括查询osu官服、ppysb私服、elo系统等多种渠道查询
 
-[了解详情](./osu.md)
+[osu官服](./bancho.md)
+
+[ppy.sb](./ppysb.md)
+
+[elo系统](./elo.md)
 
 ## 娱乐功能
 
 小阿日点餐系统
 
-[了解详情](./chat.md)
+[了解详情](./eat.md)

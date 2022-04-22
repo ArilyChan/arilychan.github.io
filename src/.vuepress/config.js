@@ -62,8 +62,10 @@ module.exports = {
         text: '指令',
         link: '/guide',
         children: [
-          '/guide/osu.md',
-          '/guide/chat.md',
+          '/guide/bancho.md',
+          '/guide/ppysb.md',
+          '/guide/elo.md',
+          '/guide/eat.md',
         ],
       },
       {
