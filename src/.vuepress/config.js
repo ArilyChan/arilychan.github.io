@@ -66,6 +66,24 @@ module.exports = {
           '/guide/chat.md',
         ],
       },
+      {
+        text: '关于',
+        link: '/about',
+      },
     ],
   },
+  plugins: [
+    [
+      '@vuepress/plugin-search',
+      {
+        locales: {
+          '/': {
+            placeholder: 'Search',
+          },
+        },
+        // 排除首页
+        isSearchable: (page) => page.path !== '/',
+      },
+    ],
+  ],
 }

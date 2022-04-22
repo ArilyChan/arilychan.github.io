@@ -13,3 +13,21 @@ Create with VuePress v2.0
 源文件在`src`文件夹中
 
 打包文件在`docs`文件夹中
+
+## 安装
+
+```bash
+npm install
+```
+
+## dev
+
+```bash
+vuepress dev src
+```
+
+## build
+
+```bash
+vuepress build src
+```
