@@ -44,14 +44,13 @@ module.exports = {
     },
     navbar: [
       { text: '首页', link: '/' },
-      /*
       {
-        text: '链接',
+        text: '友情链接',
         children: [
-          { text: 'QQ群', link: '/'},
+          { text: 'PPY.SB服', link: 'https://osu.ppy.sb/'},
+          { text: 'EWC 官网', link: 'http://otsu.fun/'},
         ]
       },
-      */
     ],
     sidebar: [
       {
@@ -80,7 +79,7 @@ module.exports = {
       {
         locales: {
           '/': {
-            placeholder: 'Search',
+            placeholder: '搜索文档',
           },
         },
         // 排除首页
