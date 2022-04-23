@@ -48,7 +48,6 @@ module.exports = {
         text: '友情链接',
         children: [
           { text: 'PPY.SB服', link: 'https://osu.ppy.sb/'},
-          { text: 'EWC 官网', link: 'http://otsu.fun/'},
         ]
       },
     ],
@@ -63,8 +62,8 @@ module.exports = {
         children: [
           '/guide/bancho.md',
           '/guide/ppysb.md',
-          '/guide/elo.md',
           '/guide/eat.md',
+          '/guide/daily.md',
         ],
       },
       {
@@ -82,8 +81,8 @@ module.exports = {
             placeholder: '搜索文档',
           },
         },
-        // 排除首页
-        isSearchable: (page) => page.path !== '/',
+        // 排除首页和废弃页
+        isSearchable: (page) => (page.path !== '/' &&  page.path !== '/guide/elo.html'),
       },
     ],
   ],

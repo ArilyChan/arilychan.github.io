@@ -6,16 +6,16 @@
 
 ## osu查询
 
-包括查询osu官服、ppysb私服、elo系统等多种渠道查询
+可以查询osu官服和ppysb私服的各项信息
 
 [osu官服](./bancho.md)
 
 [ppy.sb](./ppysb.md)
 
-[elo系统](./elo.md)
-
 ## 娱乐功能
 
-小阿日点餐系统
+和小阿日一起玩
 
-[了解详情](./eat.md)
+[点餐系统](./eat.md)
+
+[运势系统](./daily.md)
