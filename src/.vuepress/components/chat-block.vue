@@ -86,7 +86,7 @@ $border-radius: 6px;
   .messages > :not(:nth-child(1)) {
     padding-top: 0.8rem;
   }
-  .message.right {
+.right {
     margin-left: auto;
   }
 }
