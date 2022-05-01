@@ -64,6 +64,7 @@ module.exports = {
           '/guide/ppysb.md',
           '/guide/eat.md',
           '/guide/daily.md',
+          '/guide/qq.md',
         ],
       },
       {

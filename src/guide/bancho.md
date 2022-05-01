@@ -28,29 +28,21 @@
 
 - 示例： `!!userpage arily`
 
-## recent
+## recent / pr
 
 展示最后上传至osu服务器的成绩
 
-- 指令： **!!recent** `<osuid或用户名>`
+- 指令： **!!recent** / **!!pr**`#<mode>` `<osuid或用户名>`
 
-- 示例： `!!recent arily`
-
-## pr
-
-展示最后上传至osu服务器的**pass**成绩
-
-- 指令： **!!pr** `<osuid或用户名>`
-
-- 示例： `!!pr arily`
+- 示例： `!!recent#mania arily`
 
 ## bp / best
 
 #### 查询bp
 
-- 指令： **!!best** / **!!bp** `<osuid或用户名>`
+- 指令： **!!best** / **!!bp**`#<mode>` `<osuid或用户名>`
 
-- 示例： `!!best arily`
+- 示例： `!!best#mania arily`
 
 #### 查询bp列表第几个成绩
 
