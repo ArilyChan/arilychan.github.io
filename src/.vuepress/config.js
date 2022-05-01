@@ -1,3 +1,5 @@
+const { path } = require('@vuepress/utils')
+const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
 module.exports = {
   // 站点配置
   lang: 'zh-CN',
@@ -86,5 +88,8 @@ module.exports = {
         isSearchable: (page) => (page.path !== '/' &&  page.path !== '/guide/elo.html'),
       },
     ],
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    })
   ],
 }
