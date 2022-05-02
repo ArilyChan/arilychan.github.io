@@ -8,11 +8,11 @@ actions:
     link: /guide/
     type: primary
 features:
-  - title: 快速相应
-    details: 小阿日有着出色的响应速度，有求必应
-  - title: 内容丰富
-    details: 小阿日多样的查询功能为您展现丰富的数据内容
-  - title: 功能强大
-    details: 经验丰富的开发者arily为您提供小阿日的各项功能
-footer: MIT Licensed | Copyright © 2022-present Arilychan
+  - title: osu:多服务器支持
+    details: 支持官服与sb服查询
+  - title: Telegram
+    details: '@arilybot'
+  - title: QQ
+    details: 3266654349
+footer: MIT Licensed | Copyright © 2019-2022 Arilychan
 ---

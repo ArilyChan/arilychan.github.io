@@ -36,7 +36,7 @@ export default {
 @import "../styles/index.scss";
 $border-radius: 6px;
 .window {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: flex;
   flex-direction: column;
