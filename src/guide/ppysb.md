@@ -8,6 +8,14 @@
 
 - 可用的mode：`osu` `osuRX` `osuAP` `taiko` `taikoRX` `fruit` `fruitRX` `mania`
 
+## setuser
+
+绑定玩家账号
+
+- 指令： **\*setuser** `<osuid或用户名>`
+
+- 示例： `\*setuser arily`
+
 ## stat
 
 展示玩家信息
