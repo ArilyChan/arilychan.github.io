@@ -30,6 +30,8 @@
 
 - 示例： `*stat#mania arily`
 
+## set
+
 设置用户默认模式
 
 - 指令：**\*setmode**`<mode>`
