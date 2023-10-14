@@ -30,6 +30,14 @@
 
 - 示例： `*stat#mania arily`
 
+## set
+
+设置用户默认模式
+
+- 指令：**\*setmode**`<mode>`
+
+- 示例： `*setmode osu`
+
 ## userpage
 
 玩家个人页面截图
